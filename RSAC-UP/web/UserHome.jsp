@@ -1,8 +1,4 @@
-<%-- 
-    Document   : UserHome
-    Created on : Feb 23, 2023, 1:34:54 AM
-    Author     : india
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
